@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+# ***Chemistry Through Computations***
+
+---
+
 # **Sukanta Mondal**
 *Assistant Professor in Chemistry*  
 A. M. School of Educational Sciences  
