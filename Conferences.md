@@ -1,41 +1,41 @@
 ---
 layout: default
-title: "Conferences, Talks & FDPs"
+title: "Selected FDPs, Conferences, Posters, and Talks"
 ---
 
 # Selected FDPs, Conferences, Posters, and Talks
 
-1. Delivered an invited talk entitled *"Hydrogen Trapping Potential of a Few Novel Molecular Clusters and Ions"* in the **International Conference on Chemistry for Sustainable Future (ICCSF-2023)**, Department of Chemistry, University of Kalyani, 27–29 January 2023.  
+1. Participant: Capacity Building Program on Artificial Intelligence (Title: *From Chalkboards to Chatbots – Faculty Voyage in AI*), Online, 4th to 8th August, 2025, Organized by DLED Labs, Indian Institute of Technology Ropar (MMTTP Sponsored).  
 
-2. Delivered an invited talk entitled *"Hydrogen Trapping Potential of a Few Novel Molecular Clusters and Ions"* in the **2nd International Conference on Recent Advances in Chemical Sciences (RACS-2023)**, Department of Chemistry, Tripura University, 9–11 February 2023.  
+2. Coordinator: FDP/Training Programme on Chemical Science: Molecules to Materials, 9–14 September 2024, Organized by Ashutosh Mukhopadhyay School of Educational Sciences under the aegis of Malaviya Mission Teacher Training Centre (UGC-MMTTC), Assam University, Silchar.  
 
-3. Delivered an invited talk entitled *"Hydrogen Trapping Potential of a Few Novel Molecular Clusters and Ions"* in the **National Seminar on Chemistry and Its Applications (NSCA-2023)**, Department of Chemistry, University of Gour Banga, 24–25 March 2023.  
+3. Resource person in the Refresher Course in Chemistry organized by the UGC-Human Resource Development Centre, Savitribai Phule Pune University during the period from 21.11.2023 to 04.12.2023. Invited lecture on Photochemistry.  
 
-4. Delivered an invited talk entitled *"Hydrogen Trapping Potential of a Few Novel Molecular Clusters and Ions"* in the **National Conference on Chemistry and Chemical Sciences (NCCCS-2023)**, Department of Chemistry, Assam University, 21–22 April 2023.  
+4. Coordinator: National Webinar on Cancer Awareness was organized on 18th April, 2023 jointly by the Department of Education, Assam University, Silchar, Guru Angad Dev Teaching Learning Centre (GAD-TLC) and Indian Cancer Society. The chief guest and resource person of the webinar was the Padma Shri Awardee Dr. Ravi Kannan R.  
 
-5. Participated in the **International Conference on Advances in Chemical Sciences (ICACS-2023)**, Department of Chemistry, Gauhati University, 1–3 June 2023.  
+5. Invited talk (Title: *Selective host-guest organization in the initial stage of sI methane hydrate nucleation*) in the international conference *16th Theoretical Chemistry Symposium (TCS 2019)* organized by the Birla Institute of Technology & Science, Pilani, Pilani Campus, Pilani, Rajasthan 333031, India.  
 
-6. Participated in the **Faculty Development Programme (FDP)** on *"Recent Trends in Computational Chemistry"*, organized by the Department of Chemistry, Indian Institute of Technology, Guwahati, 10–14 July 2023.  
+6. Special lecture (Title: *Hydrogen and methane gas encapsulation in clathrate hydrates*) in the “Chemistry Colloquium” of Department of Chemistry, University of North Bengal, Siliguri, West Bengal 734013, India (January 2019).  
 
-7. Participated in the **National Workshop on Molecular Modeling and Computational Chemistry**, organized by the Department of Chemistry, Tezpur University, 17–21 July 2023.  
+7. Oral presentation (Title: *Clathrate Hydrates*) in the National Conference on Emerging Materials, March 2018, organized by the Department of Chemistry, Assam University (A Central University), Silchar 788 011, India.  
 
-8. Participated in the **International Symposium on Advances in Chemical Sciences**, Department of Chemistry, North-Eastern Hill University, Shillong, 4–6 August 2023.  
+8. Presented a poster in the *International Conference on Systems and Processes in Physics, Chemistry and Biology* (ICSPPCB-2018) organised by the Department of Physics, Assam University (A Central University), Silchar 788 011, India.  
 
-9. Participated in the **International Conference on Chemical Sciences for Sustainable Development (ICCSSD-2022)**, Department of Chemistry, University of Kalyani, 23–25 November 2022.  
+9. Oral Presentation (Title: *Hydrogen and methane storage in clathrate hydrates and HF doped clathrate hydrates*) in *51st Annual Convention of Chemists 2014*, Indian Chemical Society, December 9–12, 2014 at the Department of Chemistry, Kurukshetra University, Kurukshetra, India.  
 
-10. Presented a poster entitled *"Hydrogen Storage Potential of a Few Novel Molecular Templates"* in the **International Conference on Materials Chemistry (ICMC-2018)**, Bhabha Atomic Research Centre, Mumbai, 11–14 December 2018.  
+10. Invited talk on the topic *“Hydrogen storage in clathrate hydrates and HF doped clathrate hydrates”* in *2nd International Symposium on Energy Challenges and Mechanics (ECM2)*, 19–21 August 2014, Aberdeen, Scotland, United Kingdom.  
 
-11. Presented a poster entitled *"Molecular Templates Suitable for Hydrogen Storage Application"* in the **International Conference on Nanoscience and Nanotechnology (ICNN-2018)**, SRM University, Chennai, 1–3 August 2018.  
+11. Presented a poster in *DAE BRNS Symposium on Current Trends in Theoretical Chemistry (CTTC-2013)*, September 26–28, 2013, Bhabha Atomic Research Centre, Mumbai, India.  
 
-12. Participated in the **Faculty Development Programme** on *"Computational Chemistry Tools"*, organized by the Department of Chemistry, Tezpur University, 20–24 March 2017.  
+12. Presented a poster in *Theoretical Chemistry Symposium (TCS-2012)*, December 19–22, 2012, IIT Guwahati, India.  
 
-13. Presented a poster entitled *"Molecular Templates Suitable for Hydrogen Storage Application"* in the **International Conference on Nanoscience and Nanotechnology (ICNN-2016)**, SRM University, Chennai, 19–21 October 2016.  
+13. Participated and contributed in a poster presented from the Theoretical Chemistry Lab. (Prof. P. K. Chattaraj) in the *Diamond Jubilee Symposium on Recent Trends in Chemistry (DJSRTC-2011)* at IIT Kharagpur, October 21–23, 2011, India.  
 
-14. Participated in the **Workshop on Computational Chemistry and Its Applications**, organized by the Department of Chemistry, Tezpur University, 14–18 March 2016.  
+14. Oral presentation regarding the advancement of project HYPOMAP (*New materials for hydrogen powered mobile applications*), at National Chemical Laboratory, May 7–8, 2011, Pune, India.  
 
-15. Presented a poster entitled *"Designing of Some Novel Molecular Templates Suitable for Hydrogen Storage Application: A Theoretical Approach"* in the **International Conference on Nanoscience and Nanotechnology (ICNN-2015)**, SRM University, Chennai, 9–11 July 2015.  
+15. Participated in the *School on Understanding Molecular Simulations: Theory and Applications (UMS-2010)*, organized at IIT Kanpur, November 3–13, 2010, India.  
 
-16. Participated in the **National Workshop on Computational Chemistry**, organized by the Department of Chemistry, Tezpur University, 23–27 February 2015.  
+16. Attended the International Conference *Of Molecules and Materials* on 28–29 December 2009 at IISER-Kolkata, India.  
 
 ---
 
