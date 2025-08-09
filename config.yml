@@ -1,11 +1,12 @@
+# Site settings
 title: "Chemistry Through Computation"
 description: "Academic portfolio and professional profile — Sukanta Mondal"
 
-# Your site URL
+# Your site URL (GitHub Pages URL)
 baseurl: ""  
 url: "https://smctc.github.io"
 
-# Navigation menu links
+# Navigation menu items (used in _includes/header.html)
 navigation:
   - title: "Home"
     url: "/"
@@ -31,3 +32,27 @@ navigation:
     url: "/Service"
   - title: "Miscellaneous"
     url: "/Miscellaneous"
+
+# Author info (optional)
+author:
+  name: "Sukanta Mondal"
+  email: "sukanta.mail13@gmail.com"
+  links:
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://sites.google.com/site/sukantamondalaus/"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0003-1918-8202"
+    - label: "Scopus"
+      icon: "fas fa-book"
+      url: "https://www.scopus.com/authid/detail.uri?authorId=57209528324"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (safe for GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
