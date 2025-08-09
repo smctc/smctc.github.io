@@ -1,18 +1,13 @@
 # _config.yml
 title: "Sukanta Mondal"
 description: "Academic portfolio and professional profile"
-baseurl: "" # leave empty for root site
+baseurl: "" 
 url: "https://<your-github-username>.github.io" # replace with your GitHub Pages URL
 
-# Theme
 theme: minimal-mistakes-jekyll
 
-# Author information
 author:
   name: "Sukanta Mondal"
-  avatar: "/assets/images/profile.jpg" # optional, add your image in /assets/images/
-  bio: "Assistant Professor in Chemistry at Assam University, specializing in theoretical and computational chemistry."
-  location: "Silchar, Assam, India"
   email: "sukanta.mail13@gmail.com"
   links:
     - label: "Website"
@@ -25,28 +20,7 @@ author:
       icon: "fas fa-book"
       url: "https://www.scopus.com/authid/detail.uri?authorId=57209528324"
 
-# Social Links
-social:
-  type: "Person"
-  name: "Sukanta Mondal"
-  links:
-    - "mailto:sukanta.mail13@gmail.com"
-    - "https://sites.google.com/site/sukantamondalaus/"
-    - "https://orcid.org/0000-0003-1918-8202"
-    - "https://www.scopus.com/authid/detail.uri?authorId=57209528324"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Navigation menu
+# Navigation menu (top navbar)
 nav:
   - title: "Home"
     url: /
@@ -73,6 +47,14 @@ nav:
   - title: "Miscellaneous"
     url: /Miscellaneous/
 
-# Pagination (optional)
-paginate: 10
-paginate_path: "/page:num/"
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Disable credits/footer "smctc"
+minimal_mistakes_skin: "default"
+footer:
+  links: []  # removes unwanted footer icons/credits
