@@ -1,10 +1,24 @@
-# _config.yml
 title: "Sukanta Mondal"
 description: "Academic portfolio and professional profile"
 baseurl: "" 
 url: "https://<your-github-username>.github.io" # replace with your GitHub Pages URL
 
 theme: minimal-mistakes-jekyll
+
+# Navigation menu (appears at the top of every page)
+header_pages:
+  - index.md
+  - Experience.md
+  - Education.md
+  - Courses.md
+  - Publications.md
+  - Book-Chapters.md
+  - Projects.md
+  - Reviewer-Editor.md
+  - Awards.md
+  - Conferences.md
+  - Service.md
+  - Miscellaneous.md
 
 author:
   name: "Sukanta Mondal"
@@ -20,33 +34,6 @@ author:
       icon: "fas fa-book"
       url: "https://www.scopus.com/authid/detail.uri?authorId=57209528324"
 
-# Navigation menu (top navbar)
-nav:
-  - title: "Home"
-    url: /
-  - title: "Experience"
-    url: /Experience/
-  - title: "Education"
-    url: /Education/
-  - title: "Courses"
-    url: /Courses/
-  - title: "Publications"
-    url: /Publications/
-  - title: "Book Chapters"
-    url: /Book-Chapters/
-  - title: "Projects"
-    url: /Projects/
-  - title: "Reviewer & Editor"
-    url: /Reviewer-Editor/
-  - title: "Awards"
-    url: /Awards/
-  - title: "Conferences"
-    url: /Conferences/
-  - title: "Service"
-    url: /Service/
-  - title: "Miscellaneous"
-    url: /Miscellaneous/
-
 # Plugins
 plugins:
   - jekyll-feed
@@ -54,7 +41,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Disable credits/footer "smctc"
-minimal_mistakes_skin: "default"
+# Disable credits/footer clutter
 footer:
-  links: []  # removes unwanted footer icons/credits
+  links: []
