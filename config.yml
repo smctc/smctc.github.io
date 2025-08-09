@@ -1,11 +1,13 @@
-title: "Sukanta Mondal"
-description: "Academic portfolio and professional profile"
-baseurl: "" 
-url: "https://<your-github-username>.github.io" # replace with your GitHub Pages URL
+# _config.yml
+title: "Chemistry Through Computation"
+description: "Academic portfolio and professional profile — Sukanta Mondal"
+baseurl: ""                # leave empty for root site
+url: "https://smctc.github.io"  # replace if you use a custom domain
 
 theme: minimal-mistakes-jekyll
 
-# Navigation menu (appears at the top of every page)
+# Ensure the header navigation shows these pages at the top
+# Header pages and nav both provided for compatibility with theme versions.
 header_pages:
   - index.md
   - Experience.md
@@ -19,6 +21,32 @@ header_pages:
   - Conferences.md
   - Service.md
   - Miscellaneous.md
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /Experience/
+  - title: "Education"
+    url: /Education/
+  - title: "Courses"
+    url: /Courses/
+  - title: "Publications"
+    url: /Publications/
+  - title: "Book Chapters"
+    url: /Book-Chapters/
+  - title: "Projects"
+    url: /Projects/
+  - title: "Reviewer & Editor"
+    url: /Reviewer-Editor/
+  - title: "Awards"
+    url: /Awards/
+  - title: "Conferences"
+    url: /Conferences/
+  - title: "Service"
+    url: /Service/
+  - title: "Miscellaneous"
+    url: /Miscellaneous/
 
 author:
   name: "Sukanta Mondal"
@@ -41,6 +69,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Disable credits/footer clutter
+# Remove extra footer credits/links (keeps footer minimal)
 footer:
   links: []
+
+# Markdown and highlighter
+markdown: kramdown
+highlighter: rouge
