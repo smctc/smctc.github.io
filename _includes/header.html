@@ -1,0 +1,19 @@
+<header style="padding: 10px 0; border-bottom: 1px solid #ccc;">
+  <div style="max-width: 1000px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+    <!-- Site Title -->
+    <h1 style="margin: 0; font-size: 1.5rem;">
+      <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">
+        {{ site.title }}
+      </a>
+    </h1>
+
+    <!-- Navigation Menu -->
+    <nav>
+      <ul style="list-style: none; display: flex; flex-wrap: wrap; gap: 15px; padding: 0; margin: 0; font-size: 1rem;">
+        {% for item in site.navigation %}
+          <li><a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #007acc;">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
