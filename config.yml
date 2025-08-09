@@ -1,78 +1,33 @@
-# _config.yml
 title: "Chemistry Through Computation"
 description: "Academic portfolio and professional profile — Sukanta Mondal"
-baseurl: ""                # leave empty for root site
-url: "https://smctc.github.io"  # replace if you use a custom domain
 
-theme: minimal-mistakes-jekyll
+# Your site URL
+baseurl: ""  
+url: "https://smctc.github.io"
 
-# Ensure the header navigation shows these pages at the top
-# Header pages and nav both provided for compatibility with theme versions.
-header_pages:
-  - index.md
-  - Experience.md
-  - Education.md
-  - Courses.md
-  - Publications.md
-  - Book-Chapters.md
-  - Projects.md
-  - Reviewer-Editor.md
-  - Awards.md
-  - Conferences.md
-  - Service.md
-  - Miscellaneous.md
-
-nav:
+# Navigation menu links
+navigation:
   - title: "Home"
-    url: /
+    url: "/"
   - title: "Experience"
-    url: /Experience/
+    url: "/Experience"
   - title: "Education"
-    url: /Education/
+    url: "/Education"
   - title: "Courses"
-    url: /Courses/
+    url: "/Courses"
   - title: "Publications"
-    url: /Publications/
+    url: "/Publications"
   - title: "Book Chapters"
-    url: /Book-Chapters/
+    url: "/Book-Chapters"
   - title: "Projects"
-    url: /Projects/
+    url: "/Projects"
   - title: "Reviewer & Editor"
-    url: /Reviewer-Editor/
+    url: "/Reviewer-Editor"
   - title: "Awards"
-    url: /Awards/
+    url: "/Awards"
   - title: "Conferences"
-    url: /Conferences/
+    url: "/Conferences"
   - title: "Service"
-    url: /Service/
+    url: "/Service"
   - title: "Miscellaneous"
-    url: /Miscellaneous/
-
-author:
-  name: "Sukanta Mondal"
-  email: "sukanta.mail13@gmail.com"
-  links:
-    - label: "Website"
-      icon: "fas fa-globe"
-      url: "https://sites.google.com/site/sukantamondalaus/"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0003-1918-8202"
-    - label: "Scopus"
-      icon: "fas fa-book"
-      url: "https://www.scopus.com/authid/detail.uri?authorId=57209528324"
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Remove extra footer credits/links (keeps footer minimal)
-footer:
-  links: []
-
-# Markdown and highlighter
-markdown: kramdown
-highlighter: rouge
+    url: "/Miscellaneous"
