@@ -52,7 +52,7 @@ title: "Publications"
 33. S. Pan, **Sukanta Mondal**, and P. K. Chattaraj (2013), Cucurbiturils as Promising Hydrogen Storage Materials: A Case Study of Cucurbit[7]uril, *New J. Chem.*: 37: 2492-2499, [https://doi.org/10.1039/C3NJ00399J](https://doi.org/10.1039/C3NJ00399J)  
 34. S. Kumar, G. Mani, **Sukanta Mondal**, and P. K. Chattaraj (2012), Pyrrole-Based New Diphosphines: Pd and Ni Complexes Bearing the PNP Pincer Ligand, *Inorg. Chem.*: 51: 12527-12539, [https://doi.org/10.1021/ic301967r](https://doi.org/10.1021/ic301967r)  
 35. A. Chakraborty, S. Bandaru, R. Das, S. Duley, S. Giri, K. Goswami, **Sukanta Mondal**, S. Pan, S. Sen and P. K. Chattaraj (2012), Some Novel Molecular Frameworks Involving Representative Elements, *Phys. Chem. Chem. Phys.*: 14: 14784-14802, [https://doi.org/10.1039/C2CP41424D](https://doi.org/10.1039/C2CP41424D)  
-36. P. K. Chattaraj, S. Bandaru and **Sukanta Mondal** (2011), Hydrogen Storage in Clathrate Hydrates, *J. Phys. Chem. A*: 115: 187-193, [https://doi.org/10.1021/jp109515a](https://doi.org/10.1021/jp109515
+36. P. K. Chattaraj, S. Bandaru and **Sukanta Mondal** (2011), Hydrogen Storage in Clathrate Hydrates, *J. Phys. Chem. A*: 115: 187-193, [https://doi.org/10.1021/jp109515a](https://doi.org/10.1021/jp109515)
  
 
 ---
