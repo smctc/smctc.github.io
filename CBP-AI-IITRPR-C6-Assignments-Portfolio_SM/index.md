@@ -1,4 +1,4 @@
-# Downloads
+# CBP-AI-IITRPR-C6 Assignments Portfolio
 
 In this website my 9 assignments are kept which were completed during my Capacity Building Program on Artificial Intelligence, IIT Ropar. Assignments were done on following topics: Google Sheet and App Scripts, Exit Ticket, Lesson-Plan-using-LLMs, Github Website, What Students Know, Research using AI, Whats your thought: doing a project and learning through a project, Tell a Learning Story Using Kolb’s Cycle, and three Slides Using Napkin. In this portfolio all the assignments are kept in order:
 
