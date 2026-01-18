@@ -8,7 +8,7 @@ title: Home
 ---
 
 # **Sukanta Mondal**
-*Assistant Professor in Chemistry*  
+*Assistant Professor of Chemistry*  
 A. M. School of Educational Sciences  
 Assam University (A Central University), Silchar, India  
 
