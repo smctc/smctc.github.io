@@ -19,7 +19,9 @@ Assam University (A Central University), Silchar, India
 - **Web:** [https://sites.google.com/site/sukantamondalaus/](https://sites.google.com/site/sukantamondalaus/)  
 - **ORCID:** [0000-0003-1918-8202](https://orcid.org/0000-0003-1918-8202)  
 - **Scopus ID:** [57209528324](https://www.scopus.com/authid/detail.uri?authorId=57209528324)  
-- **Web of Science ID:** IXM-9927-2023  
+- **Web of Science ID:** [IXM-9927-2023](https://www.webofscience.com/wos/author/record/47449498)
+- **VIDWAN:** [108039](https://vidwan.inflibnet.ac.in/myprofile)
+- **Google Scholar:** [F8IiLqcAAAAJ](https://scholar.google.com/citations?user=F8IiLqcAAAAJ&hl=en)
 
 ---
 
