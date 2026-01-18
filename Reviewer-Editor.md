@@ -12,11 +12,11 @@ title: "Reviewer & Editor Roles"
 - ES Materials and Manufacturing, Engineered Science  
 - Theoretical Chemistry Account, Springer  
 - Structural Chemistry, Springer  
-- ACS Applied Energy Materials  
+- ACS Applied Energy Materials, ACS
+- Journal of Molecular Graphics and Modelling, ScienceDirect   
 
 ## Editor
 - **Review Editor** – *Frontiers in Chemistry* (Theoretical and Computational Chemistry), 2021–23 June 2025  
-- **Editorial Board Member** – *Discover Chemistry* (Springer Link)  
 
 ---
 
