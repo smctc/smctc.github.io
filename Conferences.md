@@ -5,9 +5,9 @@ title: "Selected FDPs, Conferences, Posters, and Talks"
 
 # Selected FDPs, Conferences, Posters, And Talks
 
-1. **Participant:** Successfully completed (Silver Badge, Top 2) Capacity Building Program on AI, Title: From Chalkboard to Chatbots: Faculty Voyage in AI, under the Malaviya Mission Teacher Training Programme (MMTTP) of the University Grants Commission (UGC) organized by the Indian Institute of Technology Ropar from August 4, 2025 to August 8, 2025.
+1. **Participant:** Successfully completed (Grade A) Refresher Course in Chemistry, under the Malaviya Mission Teacher Training Programme (MMTTP) of the University Grants Commission (UGC) organized by the University of Allahabad from October 31, 2025 to November 13, 2025.
 
-2. **Participant:** Successfully completed (Grade A) Refresher Course in Chemistry, under the Malaviya Mission Teacher Training Programme (MMTTP) of the University Grants Commission (UGC) organized by the University of Allahabad from October 31, 2025 to November 13, 2025.
+2. **Participant:** Successfully completed (Silver Badge, Top 2) Capacity Building Program on AI, Title: From Chalkboard to Chatbots: Faculty Voyage in AI, under the Malaviya Mission Teacher Training Programme (MMTTP) of the University Grants Commission (UGC) organized by the Indian Institute of Technology Ropar from August 4, 2025 to August 8, 2025. 
 
 3. **Coordinator:** FDP/Training Programme on Chemical Science: Molecules to Materials, 9-14 September 2024, Organized by Ashutosh Mukhopadhyay School of Educational Sciences under the aegis of Malaviya Mission Teacher Training Centre (UGC-MMTTC), Assam University, Silchar.
 
