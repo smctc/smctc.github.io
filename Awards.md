@@ -13,7 +13,7 @@ title: "Awards & Achievements"
 - Senior Research Fellow, IIT Kharagpur, 2011  
 - Junior Research Fellow, IIT Kharagpur, 2009  
 - CSIR-UGC NET-JRF & Lectureship, 2008  
-- GATE 2008 Qualifier  
+- GATE 2008 
 - NCL Scholarship (M.Sc.), 2007–2009  
 
 ---
