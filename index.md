@@ -26,12 +26,13 @@ Assam University (A Central University), Silchar, India
 ---
 
 ## Sections
+- [Research](Research.md)
+- [Projects](Projects.md)
+- [Publications](Publications.md) 
 - [Experience](Experience.md)  
 - [Education](Education.md)  
 - [Courses Taught](Courses.md)  
-- [Publications](Publications.md)  
 - [Book Chapters](Book-Chapters.md)  
-- [Projects](Projects.md)  
 - [Reviewer & Editor Roles](Reviewer-Editor.md)  
 - [Awards & Achievements](Awards.md)  
 - [Conferences, Talks & FDPs](Conferences.md)  
