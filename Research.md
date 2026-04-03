@@ -27,7 +27,7 @@ title: "Research"
 
 - **Aromaticity**  
  <img width="4000" height="2250" alt="JMM__2018" src="https://github.com/user-attachments/assets/059fc5f2-2726-415b-8ebb-f76a6de3038d" />
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
  <img width="4000" height="2250" alt="PCCP_2016_CPL-2014" src="https://github.com/user-attachments/assets/791b75fa-56b2-4429-9e6a-cb5f81b85eef" />
 
 
