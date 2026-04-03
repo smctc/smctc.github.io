@@ -10,32 +10,37 @@ title: "Research"
   
 
 - **Organometallic Systems**  
-  <img width="4000" height="2250" alt="ICA__2024" src="https://github.com/user-attachments/assets/05735d87-e5b9-4eb2-b9a5-bece641d8b71" />
+  <img width="2250" height="1364" alt="ICA__2024" src="https://github.com/user-attachments/assets/ce641c05-b801-44a8-8a12-608678034905" />
 
-  <img width="4000" height="2250" alt="JCC_2024__JPOC__2022" src="https://github.com/user-attachments/assets/6c2d7dae-f50e-4568-ac31-fc20d3b8eab4" />
+  <img width="2128" height="1652" alt="JCC_2024_JPOC_2022" src="https://github.com/user-attachments/assets/b7c626f2-eeb3-44d3-853a-aa308389456a" />
 
-  <img width="4000" height="2250" alt="molecules__2023" src="https://github.com/user-attachments/assets/f37d9692-ee28-4ba6-8a24-b52a04adb394" />
+  <img width="2156" height="1224" alt="molecules__2023" src="https://github.com/user-attachments/assets/e57afd62-34ac-41a7-9c8a-f8a911116340" />
 
-
-
+  
 - **Gas Hydrates**  
-    <img width="4000" height="2250" alt="JCC__2023" src="https://github.com/user-attachments/assets/d9d09aa5-d170-4dff-b95e-e0037b618f1a" />
+    <img width="2250" height="1626" alt="JCC__2023" src="https://github.com/user-attachments/assets/95eab462-c9b0-46ea-825d-038dfa539f5e" />
 
-    <img width="4000" height="2250" alt="CPL__2018" src="https://github.com/user-attachments/assets/809630a4-5edb-488d-ae7e-c60ce736ddd6" />
+
+    <img width="2250" height="1309" alt="CPL__2018" src="https://github.com/user-attachments/assets/c5524ad4-3bf2-438f-9ccc-6e867d73dfd6" />
+
 
 
 
 - **Aromaticity**  
- <img width="4000" height="2250" alt="JMM__2018" src="https://github.com/user-attachments/assets/059fc5f2-2726-415b-8ebb-f76a6de3038d" />
+ <img width="2147" height="1735" alt="JMM__2018" src="https://github.com/user-attachments/assets/9cd879b0-31d2-4f12-b360-10201f8e50ce" />
+
     ##---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---##
- <img width="4000" height="2250" alt="PCCP_2016_CPL-2014" src="https://github.com/user-attachments/assets/791b75fa-56b2-4429-9e6a-cb5f81b85eef" />
+ <img width="2250" height="996" alt="PCCP_2016_CPL_2014" src="https://github.com/user-attachments/assets/b5d9c841-d72c-49e5-bf41-fbf7133eea36" />
+
 
 
 
 - **Nonclassical Systems**  
-  <img width="4000" height="2250" alt="CPL__2020" src="https://github.com/user-attachments/assets/7b99cef1-6b4b-4195-abc0-502f60626989" />
+  <img width="2250" height="1474" alt="CPL_2020" src="https://github.com/user-attachments/assets/28a158eb-e524-40ee-9251-7f665b3748f1" />
+
      ##---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---##
-  <img width="4000" height="2250" alt="OL-2016_CC-2016_OM-2017" src="https://github.com/user-attachments/assets/ffe2382e-0849-43d5-af59-cdce78a1f0fb" />
+  <img width="2241" height="1321" alt="OL_CC_OM" src="https://github.com/user-attachments/assets/b4f18517-cefe-4eef-a06f-a76aa08bc7b3" />
+
 
 
 ---
