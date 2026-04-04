@@ -5,7 +5,7 @@ title: "Research"
 
 # Research
 
-- **Mechanistic study of anionic redox via molecular dynamics simulation**  
+- **Mechanistic study of anionic redox via AIMD**  
   Research in this domain is being started in collaboration with the "Dixit Lab at CSIR-CLRI", funded by Advanced Research Grant from the Anusandhan National Research Foundation.
   
 
