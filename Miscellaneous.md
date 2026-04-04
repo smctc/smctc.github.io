@@ -9,7 +9,7 @@ title: "Miscellaneous"
 
 2. **CTS Research Visitor** – Department of Chemistry & Center for Theoretical Studies, Indian Institute of Technology Kharagpur, India (Jun. 2018).
 
-3. **Supervision of Final Semester (8th Semester) Project Students** – Jan. 2018 – Apr. 2023. Total 36 students supervised so far, Assam University, Silchar.
+3. **Supervision of Final Semester (8th Semester) Project Students** – Jan. 2018 – Dec. 2025. Total 44 students supervised so far, Assam University, Silchar.
 
 4. **Modified** the Chemistry (Pass & Honours) syllabus of four years integrated B.Sc.B.Ed course of Assam University, Silchar.
 
