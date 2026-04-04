@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# ***Chemistry Through Computations***
+# ***Chemistry Through Computation and Theory***
 
 ---
 
