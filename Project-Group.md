@@ -6,7 +6,7 @@
 
 ---
 
-## Group Leader
+## Supervisor
 
 <table>
 <tr>
