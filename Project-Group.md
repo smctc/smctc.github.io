@@ -45,6 +45,14 @@ sukanta.mondal@aus.ac.in
 
 ### Kajal Singh
 
+<td width="220" valign="top">
+
+<img src="./sodium.png"
+     width="180"
+     alt="Kajal Singh">
+
+</td>
+
 **Position:** Project Associate-I  
 
 **Research Area:** Unlocking high capacity of Sodium-Ion batteries.  
@@ -64,6 +72,14 @@ sukanta.mondal@aus.ac.in
 ---
 
 ### A Anuradha Singha 
+
+<td width="220" valign="top">
+
+<img src="./anuradha.jpeg"
+     width="180"
+     alt="anuradha">
+
+</td>
 
 **Position:** Summer Intern  
 
