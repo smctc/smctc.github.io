@@ -65,7 +65,7 @@ sukanta.mondal@aus.ac.in
 
 <td width="220" valign="top">
 
-<img src="./jasmeen_k.png"
+<img src="./J_K.png"
      width="180"
      alt="jasmeen">
 
