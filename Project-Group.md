@@ -83,7 +83,7 @@ sukanta.mondal@aus.ac.in
 
 <td width="220" valign="top">
 
-<img src="./anuradha.jpeg"
+<img src="./anurad.jpeg"
      width="180"
      alt="anuradha">
 
