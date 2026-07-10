@@ -26,9 +26,9 @@ Assam University (A Central University), Silchar, India
 ---
 
 ## Sections
+- [Research Group](Project-Group.md)
 - [Research](Research.md)
 - [Projects](Projects.md)
-- [Research Group](Project-Group.md)
 - [Publications](Publications.md) 
 - [Experience](Experience.md)  
 - [Education](Education.md)  
