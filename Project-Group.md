@@ -73,7 +73,7 @@ sukanta.mondal@aus.ac.in
 
 **Position:** Summer Intern  
 
-**Research Area:** SNI Methane Clathrate  
+**Research Area:** sI Methane Hydrates
 
 
 
