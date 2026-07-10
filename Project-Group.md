@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Project Group
+
 ---
 
 # Project Group
@@ -11,6 +10,14 @@ title: Project Group
 
 <table>
 <tr>
+<td width="220" valign="top">
+
+<img src="sukanta_mondal.jpeg" width="180" alt="Dr. Sukanta Mondal">
+
+</td>
+
+<td valign="top">
+
 
 
 ### Dr. Sukanta Mondal
@@ -48,7 +55,7 @@ sukanta.mondal@aus.ac.in
 
 ### Jasmeen Kaur
 
-**Position:** Internship  
+**Position:** Summer Intern  
 
 **Research Area:** SNI Methane Clathrate  
 
@@ -56,6 +63,11 @@ sukanta.mondal@aus.ac.in
 
 ---
 
+### A Anuradha Singha 
+
+**Position:** Summer Intern  
+
+**M.Sc.:** IIT Kharagpur and IACS Kolkata
 
 
 ---
