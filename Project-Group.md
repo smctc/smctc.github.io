@@ -2,7 +2,7 @@
 
 ---
 
-# Project Group
+# Research Group
 
 ---
 
@@ -20,7 +20,7 @@
 
 
 
-### Dr. Sukanta Mondal
+Dr. Sukanta Mondal
 
 **Assistant Professor in Chemistry**  
 A. M. School of Educational Sciences  
