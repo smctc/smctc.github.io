@@ -47,7 +47,7 @@ sukanta.mondal@aus.ac.in
 
 <td width="220" valign="top">
 
-<img src="./sodium.png"
+<img src="./Kajal.png"
      width="180"
      alt="Kajal Singh">
 
