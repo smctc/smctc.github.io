@@ -63,6 +63,14 @@ sukanta.mondal@aus.ac.in
 
 ### Jasmeen Kaur
 
+<td width="220" valign="top">
+
+<img src="./jasmeen.png"
+     width="180"
+     alt="jasmeen">
+
+</td>
+
 **Position:** Summer Intern  
 
 **Research Area:** SNI Methane Clathrate  
