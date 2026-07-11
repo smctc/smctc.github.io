@@ -22,15 +22,12 @@
 
 Dr. Sukanta Mondal
 
-**Assistant Professor in Chemistry**  
-A. M. School of Educational Sciences  
-Assam University, Silchar, India
+*Assistant Professor in Chemistry*
+ A. M. School of Educational Sciences  
+ Assam University, Silchar, India
 
-**Area of Specialization:**  
-Physical Chemistry, Inorganic Chemistry
-
-**Research Interests:**  
-Hydrogen storage, Gas hydrates, Aromaticity, Metal Clusters, Nonclassical molecules and ions
+**Research Interests:** 
+Electrochemistry, Gas Hydrates, Nonclassical molecules and ions, Aromaticity, Metal Clusters 
 
 **Email:**  
 sukanta.mondal@aus.ac.in
