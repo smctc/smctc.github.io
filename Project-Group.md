@@ -77,7 +77,7 @@ Dr. Mondal earned his B.Sc. in Chemistry from Raghunathpur College (University o
 </td>
 
 **Position:** Summer Intern  
-**Research Area:** Molecular docking
+**Research Area:** Molecular docking  
 **M.Sc.:** IIT Kharagpur and IACS Kolkata
 
 
