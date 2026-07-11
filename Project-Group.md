@@ -43,7 +43,7 @@ sukanta.mondal@aus.ac.in
 
 ## Students
 
-### Kajal Singh
+### Kajal
 
 <td width="220" valign="top">
 
@@ -61,7 +61,7 @@ sukanta.mondal@aus.ac.in
 
 ---
 
-### Jasmeen Kaur
+### Jasmeen
 
 <td width="220" valign="top">
 
@@ -79,7 +79,7 @@ sukanta.mondal@aus.ac.in
 
 ---
 
-### A Anuradha Singha 
+### Anuradha
 
 <td width="220" valign="top">
 
